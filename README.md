@@ -1,7 +1,8 @@
 ## Design Patterns in Ruby
 
-Code examples are written in ruby and taken from Rem Zolotykh's Tuts+ course.  
-Original files are also available in github These files are written by me and have additinional test cases for some patterns.  
+Code examples are written in Ruby and taken mostly from Rem Zolotykh's Tuts+ course.  
+Original files are also available in github. 
+These files are written by me. I have added some additinional test cases and refactored a bit. 
 
 12 Design Patterns implemented in this project:  
 
@@ -20,7 +21,7 @@ Original files are also available in github These files are written by me and ha
 
 ## Clone
 
-requires ruby v2 or newer.
+requires Ruby v2 or newer.
 
 * git clone https://github.com/bkdir/design_patterns_ruby_2.git
 * bundle install  
